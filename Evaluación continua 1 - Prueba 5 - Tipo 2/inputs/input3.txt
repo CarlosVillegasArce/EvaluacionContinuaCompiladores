@@ -1,0 +1,7 @@
+x = 4;
+y = 10;
+if (x < y and y > 5) then
+    print(x * y)
+else
+    print(y + x)
+endif
